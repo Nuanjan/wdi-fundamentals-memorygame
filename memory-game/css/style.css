@@ -131,3 +131,8 @@ footer {
   color: white;
   margin:20px auto;
 }
+#score{
+  font-weight: 600;
+  font-size: 36px;
+  ont-family: "Raleway", sans-serif;
+}
